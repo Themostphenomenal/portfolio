@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.c4facf8c.css",
+    "main.js": "/portfolio/static/js/main.6cf1b68f.js",
+    "static/media/realestate.jpg": "/portfolio/static/media/realestate.44fd19f4c6872731149c.jpg",
+    "static/media/mongo db.png": "/portfolio/static/media/mongo db.dd552a55b534b0083148.png",
+    "static/media/workImg.jpeg": "/portfolio/static/media/workImg.e4c66be6ae2ae4f83608.jpeg",
+    "static/media/tailwindcss.png": "/portfolio/static/media/tailwindcss.9421383bb42bf92bb018.png",
+    "static/media/react js.png": "/portfolio/static/media/react js.f3e576ba08e6be927148.png",
+    "static/media/node js.png": "/portfolio/static/media/node js.07d152a8a036951b8d14.png",
+    "static/media/ike.png": "/portfolio/static/media/ike.4c2b9cc4613f535d7880.png",
+    "static/media/github.png": "/portfolio/static/media/github.c8007a9fb185cb152ee6.png",
+    "static/media/css.png": "/portfolio/static/media/css.409b3a09bb70c51542f8.png",
+    "index.html": "/portfolio/index.html",
+    "main.c4facf8c.css.map": "/portfolio/static/css/main.c4facf8c.css.map",
+    "main.6cf1b68f.js.map": "/portfolio/static/js/main.6cf1b68f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4facf8c.css",
+    "static/js/main.6cf1b68f.js"
+  ]
+}
